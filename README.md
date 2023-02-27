@@ -14,7 +14,7 @@ An education company named X Education sells online courses to industry professi
 - Prediction on test set
 - Precision- Recall
 ## Details of files given
-- Lead Score Case Study Amarjot_Singh.ipynb : The python file showing coding and data analysis
+- LeadScoreCaseStudy_AmarjotSingh.ipynb : The python file showing coding and data analysis
 - Assignment Subjective Questions.pdf : = Subjective questions answered to find insights and understanding
 - Lead Score Case Study.pdf : Final Presentation
 - Leads.csv : Data worked on
